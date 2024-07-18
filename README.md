@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Information Systems Student at the  State University of Mato Grosso - (Unemat)<br>🌱 I'm currently learning about html-css-javascript-php, for web development, and python, in college<br>💬 Interest in Mobile Dev and Game Dev<br>
+🔭 Information Systems Student at the  State University of Mato Grosso - (Unemat)<br>🌱 I'm currently learning about python<br>💬 Interest in Mobile Dev and Game Dev<br>
 
 
 ## 🌐 Socials:
